@@ -10,7 +10,7 @@ SETUP:
 7. Repeat steps 4-6 until you have three frames for the three different button scripts
 
 HOW TO USE:
-1. Enter ID into textbox
+1. Enter ID into text box
 2. Press button to purchase
 
 NOTES:
